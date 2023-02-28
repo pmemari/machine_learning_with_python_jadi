@@ -7,3 +7,4 @@ temp/
 # ignore virtual environment
 my-env1/
 .DS_Store
+.ipynb_checkpoints
